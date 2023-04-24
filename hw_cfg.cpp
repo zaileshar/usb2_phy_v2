@@ -6,3 +6,4 @@ public:
         std::cout << "Hw_cfg initialized." << std::endl;
     }
 };
+// Modified timing constraints 73ns
