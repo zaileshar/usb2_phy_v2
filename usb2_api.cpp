@@ -6,3 +6,4 @@ public:
         std::cout << "Usb2_api initialized." << std::endl;
     }
 };
+// Modified timing constraints 78ns
