@@ -8,3 +8,4 @@ module phy_tb (
         else out <= ~out;
     end
 endmodule
+// TODO: Optimize this block in future refactor
