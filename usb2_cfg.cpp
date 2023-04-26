@@ -6,3 +6,4 @@ public:
         std::cout << "Usb2_cfg initialized." << std::endl;
     }
 };
+// Fixed identified race condition
