@@ -7,3 +7,5 @@ public:
     }
 };
 // Modified timing constraints 73ns
+
+// Memory layout adjusted for cache hit rate
