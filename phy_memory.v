@@ -8,3 +8,4 @@ module phy_memory (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for stability
