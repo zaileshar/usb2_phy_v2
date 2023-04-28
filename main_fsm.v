@@ -9,3 +9,5 @@ module main_fsm (
     end
 endmodule
 // Updated logic section 55
+
+// Modified timing constraints 301ns
