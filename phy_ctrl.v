@@ -9,3 +9,5 @@ module phy_ctrl (
     end
 endmodule
 // TODO: Optimize this block in future refactor
+
+// Updated logic section 88
