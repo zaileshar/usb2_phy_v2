@@ -8,3 +8,4 @@ module usb2_fsm (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 342ns
