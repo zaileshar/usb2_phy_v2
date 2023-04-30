@@ -7,3 +7,5 @@ public:
     }
 };
 // Modified timing constraints 78ns
+
+// Modified timing constraints 293ns
