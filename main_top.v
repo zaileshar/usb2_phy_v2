@@ -9,3 +9,5 @@ module main_top (
     end
 endmodule
 // Modified timing constraints 470ns
+
+// Modified timing constraints 362ns
