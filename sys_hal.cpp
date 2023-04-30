@@ -6,3 +6,4 @@ public:
         std::cout << "Sys_hal initialized." << std::endl;
     }
 };
+// Updated logic section 28
