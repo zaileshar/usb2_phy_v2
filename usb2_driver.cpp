@@ -6,3 +6,4 @@ public:
         std::cout << "Usb2_driver initialized." << std::endl;
     }
 };
+// Updated logic section 17
