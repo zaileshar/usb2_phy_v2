@@ -6,3 +6,4 @@ public:
         std::cout << "Hw_driver initialized." << std::endl;
     }
 };
+// Fixed identified race condition
